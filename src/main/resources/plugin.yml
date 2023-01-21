@@ -1,0 +1,62 @@
+name: Nauka
+version: '${project.version}'
+main: nauka1.nauka.Nauka
+api-version: 1.19
+commands:
+  HiperSiła1:
+    description: Daje nadludzką siłę!
+    aliases:
+      - HiperSiła
+    usage: /<command>
+    permissions:
+      - get.HiperSiła
+  HiperSiła2:
+    description: Daje nadludzką siłę!
+    aliases:
+      - HiperSiła2
+    usage: /<command>
+    permissions:
+      - get.HiperSiła2
+  HiperSiła3:
+    description: Daje nadludzką siłę!
+    aliases:
+      - HiperSiła3
+    usage: /<command>
+    permissions:
+      - get.HiperSiła3
+  HiperSiła4:
+    description: Daje nadludzką siłę!
+    aliases:
+      - HiperSiła4
+    usage: /<command>
+    permissions:
+      - get.HiperSiła4
+  Zając:
+    description: Skacz jak zając!
+    aliases:
+      - zając
+    usage: /<command>
+    permissions:
+      - get.Zając
+  Zając2:
+    description: Skacz jak zając!
+    aliases:
+      - zając2
+    usage: /<command>
+    permissions:
+      - get.Zając2
+  Zając3:
+    description: Skacz jak zając!
+    aliases:
+      - zając3
+    usage: /<command>
+    persmissions:
+      - get.Zając3
+  Zając4:
+    description: Skacz jak zając!
+    aliases:
+      - zając4
+    usage: /<command>
+    permissions:
+      - get.Zając4
+
