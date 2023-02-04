@@ -1,0 +1,248 @@
+name: Nauka
+version: '${project.version}'
+main: nauka1.nauka.Nauka
+api-version: 1.19
+commands:
+
+  hiperSiła1:
+    description: Daje nadludzką siłę!
+    aliases:
+      - hiperSiła
+    usage: /<command>
+    permissions:
+      - get.hiperSiła
+  hiperSiła2:
+    description: Daje nadludzką siłę!
+    aliases:
+      - hiperSiła2
+    usage: /<command>
+    permissions:
+      - get.hiperSiła2
+  hiperSiła3:
+    description: Daje nadludzką siłę!
+    aliases:
+      - hiperSiła3
+    usage: /<command>
+    permissions:
+      - get.hiperSiła3
+  hiperSiła4:
+    description: Daje nadludzką siłę!
+    aliases:
+      - hiperSiła4
+    usage: /<command>
+    permissions:
+      - get.hiperSiła4
+
+  zając:
+    description: Skacz jak zając!
+    aliases:
+      - zając
+    usage: /<command>
+    permissions:
+      - get.zając
+  zając2:
+    description: Skacz jak zając!
+    aliases:
+      - zając2
+    usage: /<command>
+    permissions:
+      - get.zając2
+  zając3:
+    description: Skacz jak zając!
+    aliases:
+      - zając3
+    usage: /<command>
+    persmissions:
+      - get.zając3
+  zając4:
+    description: Skacz jak zając!
+    aliases:
+      - zając4
+    usage: /<command>
+    permissions:
+      - get.zając4
+
+  health1:
+    description: Dodaje więcej serduszek!
+    aliases:
+      - health1
+    usage: /<command>
+    permissions:
+      - get.health1
+  health2:
+    description: Dodaje więcej serduszek!
+    aliases:
+      - health2
+    usage: /<command>
+    permissions:
+      - get.health2
+  health3:
+    description: Dodaje więcej serduszek!
+    aliases:
+      - health3
+    usage: /<command>
+    permissions:
+      - get.health3
+  health4:
+    description: Dodaje więcej serduszek!
+    aliases:
+      - health4
+    usage: /<command>
+    permissions:
+      - get.health4
+
+  speed1:
+    description: Biegnij ile sił w nogach!
+    aliases:
+      - speed1
+    usage: /<command>
+    permissions:
+      - get.speed1
+  speed2:
+    description: Biegnij ile sił w nogach!
+    aliases:
+      - speed2
+    usage: /<command>
+    permissions:
+      - get.speed2
+  speed3:
+    description: Biegnij ile sił w nogach!
+    aliases:
+      - speed3
+    usage: /<command>
+    permissions:
+      - get.speed3
+  speed4:
+    description: Biegnij ile sił w nogach!
+    aliases:
+      - speed4
+    usage: /<command>
+    permissions:
+      - get.speed4
+
+  heist1:
+    description: Wykop dużo bloków!
+    aliases:
+      - heist1
+    usage: /<command>
+    permissions:
+      - get.heist1
+  heist2:
+    description: Wykop dużo bloków!
+    aliases:
+      - heist2
+    usage: /<command>
+    permissions:
+      - get.heist2
+  heist3:
+    description: Wykop dużo bloków!
+    aliases:
+      - heist3
+    usage: /<command>
+    permissions:
+      - get.heist3
+  heist4:
+    description: Wykop dużo bloków!
+    aliases:
+      - heist4
+    usage: /<command>
+    permissions:
+      - get.heist4
+
+  regeneration1:
+    description: Szybko leczy twoje rany!
+    aliases:
+      - regeneration1
+    usage: /<command>
+    permissions:
+      - get.regeneration1
+  regeneration2:
+    description: Szybko leczy twoje rany!
+    aliases:
+      - regeneration2
+    usage: /<command>
+    permissions:
+      - get.regeneration2
+  regeneration3:
+    description: Szybko leczy twoje rany!
+    aliases:
+      - regeneration3
+    usage: /<command>
+    permissions:
+      - get.regeneration3
+  regeneration4:
+    description: Szybko leczy twoje rany!
+    aliases:
+      - regeneration4
+    usage: /<command>
+    permissions:
+      - get.regeneration4
+
+  duch1:
+    description: atak
+    aliases:
+      - duch1
+    usage: /<command>
+    permissions:
+      - get.duch1
+
+  diamondregion:
+    description: Set the diamond ore region
+    usage: /diamondregion <min|max>
+  coalregion:
+    description: Set the coal ore region
+    usage: /coalregion <min|max>
+  goldregion:
+    description: Set the gold ore region
+    usage: /goldregion <min|max>
+  ironregion:
+    description: Set the iron ore region
+    usage: /ironregion <min|max>
+  lapisregion:
+    description: Set the lapis region
+    usage: /lapisregion <min|max>
+  debrisregion:
+    description: Set the debris region
+    usage: /debrisregion <min|max>
+  obsydianregion:
+    description: Set the obsydian region
+    usage: /obsydianregion <min|max>
+  prismarinregion:
+    description: Set the prismine region
+    usage: /prismarinregion <min|max>
+  redstoneregion:
+    description: Set the redstone region
+    usage: /redstoneregion <min|max>
+  woodregion:
+    description: Set the wood region
+    usage: /woodregion <min|max>
+  dirtregion:
+    description: Set the dirt region
+    usage: /dirtregion <min|max>
+  emeraldregion:
+    description: Set the emerald region
+    usage: /emeraldregion <min|max>
+  copperregion:
+    description: Set the copper region
+    usage: /copperregion <min|max>
+  cobelregion:
+    description: Set the cobel region
+    usage: /copperregion <min|max>
+  netherrackregion:
+    description: Set the netherrack rack
+    usage: /netherrackregion <min|max>
+
+  leather1:
+    description: leather1
+    alias:
+      - leather1
+    usage: /<command>
+    permissions:
+      - get.leather1
+  leather2:
+    description: leather2
+    alias:
+      - leather2
+    usage: /<command>
+    permissions:
+      - get.leather2
